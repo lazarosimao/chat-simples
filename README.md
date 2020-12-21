@@ -1,5 +1,5 @@
 # SOBRE O PROJETO
-Desenvolvido através da video aulo realizada pelo Diego Fernandes da RocketSeat
+Desenvolvido através da video aula realizada pelo Diego Fernandes da RocketSeat
 
 Link: https://www.youtube.com/watch?v=-jXfKDYJJvo&t=597s
 
