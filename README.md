@@ -1,5 +1,15 @@
-# CHAT
+# SOBRE O PROJETO
+Desenvolvido através da video aulo realizada pelo Diego Fernandes da RocketSeat
 
-Para usar a aplicação baixe o repositorio e em seguida execute os comandos abaixo:
+Link: https://www.youtube.com/watch?v=-jXfKDYJJvo&t=597s
 
+# TECNOLOGIAS / FERRAMENTAS
+- NodeJS
+- NPM
+- Socket.io
+- HTML5
+- Css
+- Jquery
+
+# RUNNING
 `npm install` e depois `npm start`
